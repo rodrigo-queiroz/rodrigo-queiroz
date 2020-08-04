@@ -7,7 +7,7 @@ Sou um FullStack Developer 💻
 
 Trabalhando na **LifeCodes**
 
-Atualmente estudo as stacks: ReactJS, Node.js, Reacte Native, Typescript, C#, 
+Atualmente estudo as stacks: ReactJS, Node.js, Reacte Native, Typescript, C#, Git, Docker e kubernetes.
 
 Buscando colaborar com projetos em Front-end usando ReactJS, Back-end usando Node.js, Php. Realidade Aumentada em Unity.
 
