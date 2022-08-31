@@ -7,9 +7,9 @@ Sou um FullStack Developer 💻
 
 Trabalhando na **LifeCodes**
 
-Atualmente estudo as stacks: ReactJS, Node.js, Reacte Native, Typescript, C#, Git, Docker e kubernetes.
+Atualmente estudo as stacks: C#, ReactJS, Typescript, PostgreSQL, Docker.
 
-Buscando colaborar com projetos em Front-end usando ReactJS, Back-end usando Node.js, Php. Realidade Aumentada em Unity.
+Buscando colaborar com projetos em Front-end usando ReactJS, Back-end usando o C#. Realidade Aumentada em Unity.
 
 Entre em contato comigo pelo Linkedin: https://www.linkedin.com/in/rodrigo-queiroz-0aa36416b/)] ou pelo gmail: dra15.queiroz@gmail.com
 
